@@ -1,11 +1,8 @@
 {
-  "homepage": "http://mr-pineapple.co.uk/",
-  "1.16.5": {
-    "0.1.0": "First Beta Release Version",
-  },
-  
+  "homepage": "https://www.curseforge.com/minecraft/mc-mods/additional-guns",
   "promos": {
-	"1.16.5-latest": "0.1.0",
-    "1.16.5-recommended": "0.1.0"
+    "1.16.3-latest": "0.3.0",
+    "1.16.4-latest": "0.3.0",
+    "1.16.5-latest": "0.3.0"
   }
 }

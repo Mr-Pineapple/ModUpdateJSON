@@ -1,13 +1,19 @@
 {
-  "homepage": "http://mr-pineapple.co.uk/",
+  "homepage": "https://www.curseforge.com/minecraft/mc-mods/better-barrels",
   "1.16.5": {
     "1.0.2": "First Forge Release",
+  },
+    
+   "1.19.1": {
+    "1.0.3": "Updated to 1.19, Finally! - Barrel will now be easier to break with an axe. - Temporarily removed breaking particles.",
   },
   
   "promos": {
     "1.16.5-latest": "1.0.2",
     "1.16.5-recommended": "1.0.2",
-	"1.17.1-latest": "1.0.2",
-    "1.17.1-recommended": "1.0.2"
+    "1.17.1-latest": "1.0.2",
+    "1.17.1-recommended": "1.0.2",
+    "1.19.1-latest": "1.0.3",
+    "1.19.1-recommended": "1.0.3"
   }
 }

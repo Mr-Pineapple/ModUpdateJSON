@@ -5,7 +5,11 @@
   },
     
    "1.19.1": {
-    "1.0.3": "Updated to 1.19, Finally! - Barrel will now be easier to break with an axe. - Temporarily removed breaking particles.",
+    "1.0.3": "Updated to 1.19 - Barrel will now be easier to break with an axe. - Temporarily removed breaking particles.",
+  },
+
+  "1.20.1": {
+    "1.0.4": "Updated to 1.20, Finally! - Fixed breaking particles. - optimised models.",
   },
   
   "promos": {
@@ -14,6 +18,8 @@
     "1.17.1-latest": "1.0.2",
     "1.17.1-recommended": "1.0.2",
     "1.19.1-latest": "1.0.3",
-    "1.19.1-recommended": "1.0.3"
+    "1.19.1-recommended": "1.0.3",
+    "1.20.1-latest": "1.0.4",
+    "1.20.1-recommended": "1.0.4"
   }
 }
